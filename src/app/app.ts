@@ -10,7 +10,7 @@ import { Header } from './components/header/header';
   template: `
     <app-header/>
     <main>
-      <app-home/>
+      <router-outlet/>
     </main>
   `,
   styles: [
