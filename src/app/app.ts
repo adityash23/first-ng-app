@@ -5,7 +5,7 @@ import { Header } from './components/header/header';
 
 @Component({
   selector: 'app-root', // tells name of HTML tag to be used for this component
-  imports: [RouterOutlet, Header, Home], 
+  imports: [RouterOutlet, Header], 
   // template is the HTML code that defines what this component displays
   template: `
     <app-header/>
