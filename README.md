@@ -1,5 +1,9 @@
 # FirstNgApp
 
+This project uses some of the core Angular technologies such as routing for a multi-page Todo list app, directives to modify UI of completed items, services to encapsulate the list of items and to make HTTP requests, pipes to allow searching through the list using an input box.   
+
+It is created following https://www.youtube.com/watch?v=oUmVFHlwZsI.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.7.
 
 ## Development server
